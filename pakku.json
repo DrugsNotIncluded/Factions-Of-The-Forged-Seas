@@ -1,0 +1,11 @@
+{
+    "name": "Factions Of The Forged Seas",
+    "version": "1.18.0",
+    "overrides": [
+        "config",
+	"mods/*",
+	"ambience_music",
+	"resources",
+	"scripts"
+    ]
+}

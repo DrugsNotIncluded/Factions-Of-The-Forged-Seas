@@ -1,0 +1,236 @@
+
+{
+  "ID": 178,
+  "Name": "Warped Forest",
+  "Class": "DelirusCrux.Netherlicious.Biomes.WarpedForest",
+  "Color": 4821115,
+  "Root Height": 0.1,
+  "Height Variation": 0.2,
+  "Top Block": "netherlicious:WarpedNylium",
+  "Filler Block": "minecraft:netherrack",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "16777215",
+  "Temperature": 2.0,
+  "Humidity": 0.0,
+  "Water Tint": 16777215,
+  "Enable Rain": false,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "NETHER"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [
+    {
+      "Entity Class": "com.NovaCraft.entity.EntityPhoenix",
+      "Weight": 10,
+      "Min Group Count": 4,
+      "Max Group Count": 10
+    },
+    {
+      "Entity Class": "com.robrit.moofluids.common.entity.EntityFluidCow",
+      "Weight": 8,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "DelirusCrux.Netherlicious.Common.Entities.Passive.EntityStrider",
+      "Weight": 10,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "DelirusCrux.Netherlicious.Common.Entities.Passive.EntityHoglin",
+      "Weight": 10,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "DelirusCrux.Netherlicious.Common.Entities.Passive.EntityPiglin",
+      "Weight": 7,
+      "Min Group Count": 8,
+      "Max Group Count": 8
+    },
+    {
+      "Entity Class": "com.ilya3point999k.thaumicconcilium.common.entities.mobs.Thaumaturge",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    }
+  ],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "chylex.hee.entity.mob.EntityMobEnderman",
+      "Weight": 200,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "am2.entities.EntityHecate",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "am2.entities.EntityDarkling",
+      "Weight": 5,
+      "Min Group Count": 4,
+      "Max Group Count": 8
+    },
+    {
+      "Entity Class": "am2.entities.EntityFireElemental",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.lomeli.ec.entity.EntityMagmaCreeper",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.NovaCraft.entity.EntitySlaughter",
+      "Weight": 7,
+      "Min Group Count": 4,
+      "Max Group Count": 7
+    },
+    {
+      "Entity Class": "com.NovaCraft.entity.EntityDrifter",
+      "Weight": 10,
+      "Min Group Count": 4,
+      "Max Group Count": 10
+    },
+    {
+      "Entity Class": "com.NovaCraft.entity.EntityBlazingCharger",
+      "Weight": 9,
+      "Min Group Count": 2,
+      "Max Group Count": 9
+    },
+    {
+      "Entity Class": "com.NovaCraft.entity.EntityBlazingSerpent",
+      "Weight": 6,
+      "Min Group Count": 3,
+      "Max Group Count": 6
+    },
+    {
+      "Entity Class": "com.NovaCraft.entity.EntityNitro",
+      "Weight": 6,
+      "Min Group Count": 3,
+      "Max Group Count": 6
+    },
+    {
+      "Entity Class": "com.NovaCraft.entity.EntityDeepoid",
+      "Weight": 15,
+      "Min Group Count": 2,
+      "Max Group Count": 15
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityGhast",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 10
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityPigZombie",
+      "Weight": 9,
+      "Min Group Count": 2,
+      "Max Group Count": 9
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityMagmaCube",
+      "Weight": 10,
+      "Min Group Count": 2,
+      "Max Group Count": 10
+    },
+    {
+      "Entity Class": "thaumcraft.common.entities.monster.EntityFireBat",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "thaumcraft.common.entities.monster.EntityWisp",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "DelirusCrux.Netherlicious.Common.Entities.Monster.EntityRayWarped",
+      "Weight": 15,
+      "Min Group Count": 2,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityBlazingJuggernaut",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntitySheepman",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntitySheepmanSmith",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.ilya3point999k.thaumicconcilium.common.entities.mobs.Dissolved",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.ilya3point999k.thaumicconcilium.common.entities.mobs.QuicksilverElemental",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.ilya3point999k.thaumicconcilium.common.entities.mobs.Samurai",
+      "Weight": 5,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.ilya3point999k.thaumicconcilium.common.entities.mobs.VengefulGolem",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.ilya3point999k.thaumicconcilium.common.entities.mobs.Overanimated",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.ilya3point999k.thaumicconcilium.common.entities.mobs.MadThaumaturge",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    }
+  ],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [
+    {
+      "Entity Class": "DelirusCrux.Netherlicious.Common.Entities.Ambient.EntitySporeWarped",
+      "Weight": 20,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "DelirusCrux.Netherlicious.Common.Entities.Ambient.EntityEmber",
+      "Weight": 10,
+      "Min Group Count": 2,
+      "Max Group Count": 2
+    }
+  ],
+  "Spawn Biome": false,
+  "Tweaked": false
+}

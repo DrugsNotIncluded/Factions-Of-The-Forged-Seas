@@ -1,0 +1,196 @@
+{
+    "images": {
+        "title": {
+            "image": "modpack:title.png",
+            "posX": -263,
+            "posY": -15,
+            "height": 256,
+            "width": 512,
+            "alignment": "top_center"
+        },
+        "title2": {
+            "image": "modpack:title2.png",
+            "posX": -525,
+            "posY": -40,
+            "height": 512,
+            "width": 1024,
+            "alignment": "top_center"
+        },
+        "discord": {
+            "image": "modpack:discord.png",
+            "posX": -375,
+            "posY": -185,
+            "height": 35,
+            "width": 35,
+            "alignment": "bottom_right"
+        }
+    },
+    
+    "buttons": {
+        "officialServer": {
+            "text": "\u00A75Official Server",
+            "posX": -100,
+            "posY": 150,
+            "width": 200,
+            "height": 20,
+            "hoverText": ["\u00A75Join Now!"],
+            "action": {
+                "type": "connectToServer",
+                "ip": "192.3.27.77:27717"
+            }
+        },
+        "singleplayer": {
+            "text": "\u00A72Singleplayer",
+            "posX": -100,
+            "posY": 175,
+            "width": 200,
+            "height": 20,
+            "hoverText": ["\u00A72Play Solo!"],
+            "action": {
+                "type": "openGui",
+                "gui": "singleplayer"
+            }
+        },
+        "discordServer": {
+            "text": "\u00A79Discord Server",
+            "posX": -100,
+            "posY": 200,
+            "width": 200,
+            "height": 20,
+            "hoverText": ["\u00A71Click to Join Discord!"],
+            "action": {
+                "type": "openLink",
+                "link": "https://discord.gg/YSAghQEq42"
+            }
+        },
+        "multiplayer": {
+            "text": "\u00A76Multiplayer",
+            "posX": -100,
+            "posY": 225,
+            "width": 200,
+            "height": 20,
+            "hoverText": ["\u00A76Play with Others!"],
+            "action": {
+                "type": "openGui",
+                "gui": "multiplayer"
+            }
+        },
+        "mods": {
+            "text": "\u00A78Mods",
+            "posX": -100,
+            "posY": 250,
+            "width": 200,
+            "height": 20,
+            "hoverText": ["\u00A78Manage Mods"],
+            "action": {
+                "type": "openGui",
+                "gui": "mods"
+            }
+        },
+        "options": {
+            "text": "\u00A78Options",
+            "posX": 100,
+            "posY": -50,
+            "width": 98,
+            "height": 20,
+            "hoverText": ["\u00A78Customize Settings"],
+            "action": {
+                "type": "openGui",
+                "gui": "options"
+            }
+        },
+        "quit": {
+            "text": "\u00A78Quit Game",
+            "posX": -50,
+            "posY": 275,
+            "width": 98,
+            "height": 20,
+            "hoverText": ["\u00A78don't go :(("],
+            "action": {
+                "type": "quit"
+            }
+        },
+        "language": {
+            "text": "",
+            "posX": -275,
+            "posY": 350,
+            "width": 20,
+            "height": 20,
+            "action": {
+                "type": "openGui",
+                "gui": "languages"
+            }
+        },
+        "refresh": {
+            "text": "",
+            "posX": -300,
+            "posY": 350,
+            "width": 20,
+            "height": 20,
+            "texture": "custommainmenu:textures/gui/buttons.png",
+            "action": {
+                "type": "refresh"
+            }
+        },
+        "technic": {
+            "text": "",
+            "posX": -200,
+            "posY": -120,
+            "width": 100,
+            "height": 100,
+            "alignment": "bottom_right",
+            "texture": "modpack:technic.png",
+            "action": {
+                "type": "openLink",
+                "link": "https://www.technicpack.net/modpack/factions-of-the-forged-seas.2002123"
+            }
+        },
+        "curse": {
+            "text": "",
+            "posX": -100,
+            "posY": -120,
+            "width": 100,
+            "height": 100,
+            "alignment": "bottom_right",
+            "texture": "modpack:curse.png",
+            "action": {
+                "type": "openLink",
+                "link": "https://www.curseforge.com/minecraft/modpacks/factions-of-the-forged-seas"
+            }
+        }
+    },
+    
+    "texts": {
+        "mojang": {
+            "text": "Copyright FOTFS. Do not distribute!",
+            "posX": -197,
+            "posY": -10,
+            "color": -1,
+            "alignment": "bottom_right"
+        },
+        "fml": {
+            "text": "",
+            "posX": 2,
+            "posY": -50,
+            "color": -1,
+            "alignment": "bottom_left"
+        }
+    },
+    
+    "other": {
+        "splash-text": {
+            "posX": 90,
+            "posY": 70,
+            "color": -256,
+            "alignment": "top_center",
+            "texts" : "file:modpack:splashes.txt"
+        },
+        "panorama": {
+            "images": "modpack:panorama_%c.png",
+            "animate": true,
+            "animationSpeed": 1,
+            "blur": true,
+            "gradient": true
+        }
+    }
+}

@@ -1,0 +1,217 @@
+
+{
+  "ID": 94,
+  "Name": "Corrupted Land",
+  "Class": "ec3.common.world.BiomeGenCorruption_Magic",
+  "Color": 0,
+  "Root Height": 0.1,
+  "Height Variation": 0.2,
+  "Top Block": "minecraft:grass",
+  "Filler Block": "minecraft:dirt",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "16711935",
+  "Temperature": 0.5,
+  "Humidity": 0.5,
+  "Water Tint": 16777215,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "COLD",
+    "SPARSE",
+    "DRY",
+    "DEAD",
+    "WASTELAND"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntitySheep",
+      "Weight": 12,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntityPig",
+      "Weight": 10,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntityChicken",
+      "Weight": 10,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntityCow",
+      "Weight": 8,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.ilya3point999k.thaumicconcilium.common.entities.mobs.Thaumaturge",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    }
+  ],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySpider",
+      "Weight": 10,
+      "Min Group Count": 4,
+      "Max Group Count": 10
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityZombie",
+      "Weight": 15,
+      "Min Group Count": 5,
+      "Max Group Count": 15
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySkeleton",
+      "Weight": 15,
+      "Min Group Count": 5,
+      "Max Group Count": 15
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityCreeper",
+      "Weight": 12,
+      "Min Group Count": 3,
+      "Max Group Count": 12
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySlime",
+      "Weight": 100,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "chylex.hee.entity.mob.EntityMobEnderman",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityWitch",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.NovaCraft.entity.EntitySculkDweller",
+      "Weight": 20,
+      "Min Group Count": 2,
+      "Max Group Count": 20
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityZombie",
+      "Weight": 15,
+      "Min Group Count": 5,
+      "Max Group Count": 15
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityCreeper",
+      "Weight": 12,
+      "Min Group Count": 3,
+      "Max Group Count": 12
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySkeleton",
+      "Weight": 15,
+      "Min Group Count": 5,
+      "Max Group Count": 15
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySpider",
+      "Weight": 10,
+      "Min Group Count": 4,
+      "Max Group Count": 10
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityWitch",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.NovaCraft.entity.EntitySculkAbomination",
+      "Weight": 25,
+      "Min Group Count": 3,
+      "Max Group Count": 25
+    },
+    {
+      "Entity Class": "com.NovaCraft.entity.EntityCaveMonitor",
+      "Weight": 10,
+      "Min Group Count": 4,
+      "Max Group Count": 10
+    },
+    {
+      "Entity Class": "ec3.common.entity.EntityWindMage",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 6
+    },
+    {
+      "Entity Class": "ec3.common.entity.EntityPoisonFume",
+      "Weight": 100,
+      "Min Group Count": 8,
+      "Max Group Count": 16
+    },
+    {
+      "Entity Class": "com.ilya3point999k.thaumicconcilium.common.entities.mobs.Dissolved",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.ilya3point999k.thaumicconcilium.common.entities.mobs.QuicksilverElemental",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.ilya3point999k.thaumicconcilium.common.entities.mobs.Samurai",
+      "Weight": 5,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.ilya3point999k.thaumicconcilium.common.entities.mobs.VengefulGolem",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.ilya3point999k.thaumicconcilium.common.entities.mobs.Overanimated",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.ilya3point999k.thaumicconcilium.common.entities.mobs.MadThaumaturge",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    }
+  ],
+  "Spawnable Water Creatures": [
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntitySquid",
+      "Weight": 10,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    }
+  ],
+  "Spawnable Cave Creatures": [
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntityBat",
+      "Weight": 10,
+      "Min Group Count": 8,
+      "Max Group Count": 8
+    }
+  ],
+  "Spawn Biome": false,
+  "Tweaked": false
+}

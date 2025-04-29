@@ -1,0 +1,213 @@
+{
+  "alignments": {
+    "center_top": { "factorWidth": 0.5, "factorHeight": 0.0 },
+    "center_middle": { "factorWidth": 0.5, "factorHeight": 0.5 },
+    "top_left": { "factorWidth": 0.0, "factorHeight": 0.0 },
+    "bottom_left": { "factorWidth": 0.0, "factorHeight": 1.0 },
+    "right_bottom": { "factorWidth": 1.0, "factorHeight": 1.0 }
+  },
+
+  "images": {
+    "title": {
+      "image": "modpack:title.png",
+      "posX": -185,
+      "posY": -153,
+      "width": 360,
+      "height": 180,
+      "alignment": "center_middle"
+    },
+    "title2": {
+      "image": "modpack:title2.png",
+      "posX": -250,
+      "posY": -120,
+      "width": 480,
+      "height": 240,
+      "alignment": "center_middle"
+    },
+    "discord": {
+      "image": "modpack:discord.png",
+      "posX": 52,
+      "posY": 54,
+      "width": 10,
+      "height": 10,
+      "alignment": "center_middle"
+    }
+  },
+
+  "buttons": {
+    "officialServer": {
+      "text": "\u00A75Join Now!",
+      "alignment": "center_middle",
+      "posX": -50,
+      "posY": 20,
+      "width": 100,
+      "height": 12,
+      "hoverText": ["\u00A75Connect to Official Server"],
+      "action": {
+        "type": "connectToServer",
+        "ip": "192.3.27.77:27717"
+      }
+    },
+    "singleplayer": {
+      "text": "\u00A72Singleplayer",
+      "alignment": "center_middle",
+      "posX": -50,
+      "posY": 36,
+      "width": 100,
+      "height": 12,
+      "hoverText": ["\u00A72Play Solo!"],
+      "action": {
+        "type": "openGui",
+        "gui": "singleplayer"
+      }
+    },
+    "discordServer": {
+      "text": "\u00A79Discord Server",
+      "alignment": "center_middle",
+      "posX": -50,
+      "posY": 52,
+      "width": 100,
+      "height": 12,
+      "hoverText": ["\u00A71Click to Join Discord!"],
+      "action": {
+        "type": "openLink",
+        "link": "https://discord.gg/YSAghQEq42"
+      }
+    },
+    "multiplayer": {
+      "text": "\u00A76Multiplayer",
+      "alignment": "center_middle",
+      "posX": -50,
+      "posY": 68,
+      "width": 100,
+      "height": 12,
+      "hoverText": ["\u00A76Play with Others!"],
+      "action": {
+        "type": "openGui",
+        "gui": "multiplayer"
+      }
+    },
+    "mods": {
+      "text": "\u00A78Mods",
+      "alignment": "center_middle",
+      "posX": -50,
+      "posY": 84,
+      "width": 100,
+      "height": 12,
+      "hoverText": ["\u00A78Manage Mods"],
+      "action": {
+        "type": "openGui",
+        "gui": "mods"
+      }
+    },
+    "language": {
+      "text": "",
+      "alignment": "center_middle",
+      "posX": -235,
+      "posY": -40,
+      "width": 20,
+      "height": 20,
+      "action": {
+        "type": "openGui",
+        "gui": "languages"
+      }
+    },
+    "refresh": {
+      "text": "",
+      "alignment": "center_middle",
+      "posX": -235,
+      "posY": 0,
+      "width": 20,
+      "height": 20,
+      "texture": "custommainmenu:textures/gui/buttons.png",
+      "action": {
+        "type": "refresh"
+      }
+    },
+    "quit": {
+      "text": "\u00A78Quit Game",
+      "alignment": "center_middle",
+      "posX": -50,
+      "posY": 100,
+      "width": 48,
+      "height": 12,
+      "hoverText": ["\u00A78Don't go :("],
+      "action": {
+        "type": "quit"
+      }
+    },
+    "options": {
+      "text": "\u00A78Options",
+      "alignment": "center_middle",
+      "posX": 2,
+      "posY": 100,
+      "width": 48,
+      "height": 12,
+      "hoverText": ["\u00A78Customize Settings"],
+      "action": {
+        "type": "openGui",
+        "gui": "options"
+      }
+    },
+    "technic": {
+      "text": "",
+      "alignment": "right_bottom",
+      "posX": -425,
+      "posY": -170,
+      "width": 100,
+      "height": 100,
+      "texture": "modpack:technic.png",
+      "action": {
+        "type": "openLink",
+        "link": "https://www.technicpack.net/modpack/factions-of-the-forged-seas.2002123"
+      }
+    },
+    "curse": {
+      "text": "",
+      "alignment": "right_bottom",
+      "posX": -150,
+      "posY": -168,
+      "width": 100,
+      "height": 100,
+      "texture": "modpack:curse.png",
+      "action": {
+        "type": "openLink",
+        "link": "https://www.curseforge.com/minecraft/modpacks/factions-of-the-forged-seas"
+      }
+    }
+  },
+
+  "texts": {
+    "mojang": {
+      "text": "Copyright FOTFS. Do not distribute!",
+      "alignment": "top_left",
+      "posX": 10,
+      "posY": 10,
+      "color": -1
+    },
+    "fml": {
+      "text": "",
+      "alignment": "bottom_left",
+      "posX": 2,
+      "posY": -50,
+      "color": -1
+    }
+  },
+
+  "other": {
+    "splash-text": {
+      "posX": 100,
+      "posY": 40,
+      "color": -256,
+      "alignment": "center_top",
+      "texts": "file:modpack:splashes.txt"
+    },
+    "panorama": {
+      "images": "modpack:panorama_%c.png",
+      "animate": true,
+      "animationSpeed": 1,
+      "blur": true,
+      "gradient": true
+    }
+  }
+}

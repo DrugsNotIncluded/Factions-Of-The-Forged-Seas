@@ -1,0 +1,577 @@
+{
+  "book": [
+    {
+      "features": [
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF6A5ACD",
+            "xPos": 89,
+            "yPos": 17,
+            "width": 26.0,
+            "height": 44.0
+          }
+        },
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FF6A5ACD",
+            "xPos": 313,
+            "yPos": 20,
+            "width": 26.0,
+            "height": 44.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]Sea[/b]s",
+            "wrap": 0,
+            "size": 3.7999988,
+            "color": "FF6A5ACD",
+            "xPos": 166,
+            "yPos": 53,
+            "width": 96.0,
+            "height": 25.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]Virelyan[/b]",
+            "wrap": 0,
+            "size": 3.4999988,
+            "color": "FF6A5ACD",
+            "xPos": 132,
+            "yPos": 20,
+            "width": 233.0,
+            "height": 26.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "VirelyanSeas/title.png",
+            "xPos": 34,
+            "yPos": 55,
+            "width": 346.0,
+            "height": 194.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]From Sea and Spell Was Virelya Born[/b]\n",
+            "wrap": 0,
+            "size": 1.6000001,
+            "color": "FF8A2BE2",
+            "xPos": 25,
+            "yPos": 21,
+            "width": 170.0,
+            "height": 18.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "In the forgotten cycles of the Aether, Virelya rose from rift and tide a world not forged of stone, but of essence. Here, the [b]leylines sing[/b] beneath the ocean floor.\nThe [b]stars mark rituals[/b] in blood and blossom.\nOld gods whisper through [b]obsidian obelisks[/b], and the tides carry [b]forgotten grimoires[/b].This world is no stranger to magic it is [b]magic made manifest[/b].",
+            "wrap": 0,
+            "size": 1.1,
+            "color": "FF00008B",
+            "xPos": 25,
+            "yPos": 56,
+            "width": 184.0,
+            "height": 36.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "VirelyanSeas/ChatGPT Image Apr 2, 2025, 06_16_27 PM.png",
+            "xPos": 234,
+            "yPos": 27,
+            "width": 174.0,
+            "height": 170.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Magic in Virelya is not a tool, but a [b]force of nature[/b]. It flows in [b]leylines[/b], pools in [b]nodes[/b], and weaves through all life.  The world [b]breathes mana[/b], and in turn, [b]mana shapes fate[/b].\nVirelya arcane systems are [b]interwoven[/b].",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF00008B",
+            "xPos": 21,
+            "yPos": 17,
+            "width": 186.0,
+            "height": 59.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "VirelyanSeas/florathauum.png",
+            "xPos": 245,
+            "yPos": -3,
+            "width": 134.0,
+            "height": 125.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Thaumaturges unravel the secrets of [b]aspects[/b] and [b]aura nodes[/b].  \nBotanists channel life through [b]flowers and mana bursts[/b].  \nWitchery binds [b]curse and boon[/b] to [b]circle and poppet[/b].  \nBlood mages trade [b]vital essence[/b] for [b]power and pain[/b].  \nAnd in silent corners, [b]Ars Magica sigils[/b] shimmer with forgotten tongues.",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FF00008B",
+            "xPos": 219,
+            "yPos": 108,
+            "width": 174.0,
+            "height": 101.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "VirelyanSeas/magitri.png",
+            "xPos": 39,
+            "yPos": 80,
+            "width": 133.0,
+            "height": 129.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]Spiritual Realms / Collapse[/b]\n",
+            "wrap": 0,
+            "size": 1.1,
+            "color": "FF8A2BE2",
+            "xPos": 221,
+            "yPos": 17,
+            "width": 190.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The spiritual realms of Virelya are fractured echoesÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬ï¿½planes stitched between magic and memory.\n\nLong ago, [b]magical orders[/b] ruled these realms: skyborne Thaumaturges, blood-steeped Cults, and grovebound Seers. But power waned.\n\n[b]Leylines thinned[/b]. [b]Obelisks cracked[/b]. The tides of mana receded, and [b]rifts began to close[/b].\n\nWhispers speak of a [b]Cataclysm of Sigils[/b], when forbidden rites shattered the balance between realspace sparking [b]incursions[/b], [b]spiritual bleed[/b], and arcane fallout.\n\nNow, [b]only ruins remain[/b] of these once-great sects. Spirit-bound libraries drift in void. Shrines flicker out like dying stars.\n\nYet some say the [b]planes can be healed[/b]. That new bonds of mana, blood, and vis might [b]rekindle the collapse[/b].",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF00008B",
+            "xPos": 228,
+            "yPos": 34,
+            "width": 171.0,
+            "height": 163.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "VirelyanSeas/cataclysm.png",
+            "xPos": 2,
+            "yPos": 9,
+            "width": 213.0,
+            "height": 194.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]Virelya: Timeline Hub[/b]",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF6A5ACD",
+            "xPos": 48,
+            "yPos": 19,
+            "width": 134.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]Welcome, reader.[/b]\nThis page serves as your anchor in time index of turning points in Virelya mystical history.\n\nUse the links below to jump to specific eras and scroll through their unfolding stories.\n",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF000080",
+            "xPos": 33,
+            "yPos": 33,
+            "width": 166.0,
+            "height": 45.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]Genesis[/b]",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF800000",
+            "xPos": 31,
+            "yPos": 88,
+            "width": 48.0,
+            "height": 7.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "[Jump: Aet]",
+            "texture": "",
+            "xPos": 29,
+            "yPos": 86,
+            "width": 49.0,
+            "height": 12.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]  Age Of Strangers[/b]",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF8B0000",
+            "xPos": 23,
+            "yPos": 114,
+            "width": 64.0,
+            "height": 14.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "2",
+            "texture": "",
+            "xPos": 21,
+            "yPos": 111,
+            "width": 64.0,
+            "height": 25.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b][u]Year 0 Aetheric Shattering[/u][/b]\n\nThe Overvoid ruptured, and from the fracture poured raw essence: flame, flow, form the triune roots of mana.\n\nLeylines coiled like veins through dead rock, awakening the seas with pulse and purpose.\n\nNo mortal walked then. Only silence, storm, and the First Shapes beings too vast to name, who seeded the disciplines now called magic.",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FFFF0000",
+            "xPos": 30,
+            "yPos": 17,
+            "width": 162.0,
+            "height": 73.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b]Thaumaturgy[/b] traced the threads of knowledge.  \n[b]Bloodcraft[/b] learned to shape will with sacrifice.\n[b]Botany[/b] bloomed with encoded life.  \n[b]Witchery[/b] echoed pact and pull, the old ways made flesh.  \n \n  The world did not begin. It ignited.",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FF000000",
+            "xPos": 27,
+            "yPos": 126,
+            "width": 177.0,
+            "height": 74.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b][u]Year 214 Rise of the Cults[/u][/b]\n\nAs the first arcanists cracked the veil, hunger followed.\n\nAcross the Virelyan coasts and sky-cracked archipelagos, mortal minds bent toward power not meant to be ownedonly witnessed.\n\nThe [b]Crimson Covenant[/b] was the first. Born in secrecy beneath a bleeding moon, it ritualized sacrifice, binding soul and stone with glyph and flesh.",
+            "wrap": 0,
+            "size": 0.9,
+            "color": "FFFF0000",
+            "xPos": 224,
+            "yPos": 16,
+            "width": 182.0,
+            "height": 88.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Others followed.  \nSome revered decay, feeding rot to conjure growth.  \nSome drank voidlight from glass flasks.  \nSome raised altars not to gods, but to [i]truths[/i] older than gods.\n\nThe world tilted. The first mana storms howled.\n\n[b]Magic was no longer study. It was religion.[/b]",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF000000",
+            "xPos": 234,
+            "yPos": 138,
+            "width": 164.0,
+            "height": 49.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureBox",
+          "properties": {
+            "color": "FFF5F5DC",
+            "xPos": 242,
+            "yPos": 15,
+            "width": 140.0,
+            "height": 192.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b][u]Year 613 The Binding War[/u][/b]\n\nIt began with a glyph.\n\nOne rune to steady a leyline. Another to still a storm. By the hundredth, the world cracked.\n\nThe binding circles rose from theory to ideology half salvation, half hubris.\nThey promised control. What they delivered was fracture.\n\nSects emerged: one to bind, one to break.\nWards were cast. Towers fell.\nForests ignited not from fire, but from paradox.\n\nThe skies bled ink.\nThe seas forgot their depth.\nRituals lasted days and cost centuries.\n\nNo side claimed victory.\nOnly silence.\n\n[b]  The bindings remain.[/b]\n    Dormant. Humming. Waiting\n",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FFFF0000",
+            "xPos": 33,
+            "yPos": 12,
+            "width": 177.0,
+            "height": 182.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "VirelyanSeas/ruin.png",
+            "xPos": 234,
+            "yPos": 11,
+            "width": 153.0,
+            "height": 195.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b][u]Year 871 The Founding Accord[/u][/b]\n\nIn the still-smoldering silence after the Binding War, a desperate ceasefire was forged.\nNot from peace but from exhaustion.\n\nScattered cabals, rogue scholars, and what few leyward settlements remained convened at the [i]Mirrored Spire[/i], a neutral pillar of broken skyglass.\n\n",
+            "wrap": 0,
+            "size": 0.79999995,
+            "color": "FFFF0000",
+            "xPos": 25,
+            "yPos": 26,
+            "width": 174.0,
+            "height": 89.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 246,
+            "yPos": 285,
+            "width": 50.0,
+            "height": 50.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "They brokered the [b]Founding Accord[/b], a pact of boundaries, trade, and tolerated secrets.\nIt did not unite them.\nBut it [i]contained[/i] them.\n\nEach domain walled its philosophies behind glyph-bound borders.\nArcane brewers distilled memory.\nBio-alchemists cultivated the swarm.\nBloodwrights faded into subterranean rites.\nThaumaturges rebuilt old towers, codifying the veil in research, not worship.\n\nIt was not peace but it was [b]the worlds first breath in centuries[/b].",
+            "wrap": 0,
+            "size": 0.5999999,
+            "color": "FF000000",
+            "xPos": 25,
+            "yPos": 122,
+            "width": 169.0,
+            "height": 93.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b][u]Year 1024 The Archive Split[/u][/b]\n\nFor a time, the world studied rather than bled.\n\nThe [b]Great Archive[/b], built atop ancient obsidian roots, housed all known arcane disciplines from alchemical rites to aura-weaving, void harmonics to floral augmentation.\n\nBut unity never held.\n\nPhilosophers warred with practitioners.\nTechnomages rejected ancestral rites.\nRitualists scorned the quantifiers.\nEach accused the others of diluting [i]truth[/i]  or twisting it.",
+            "wrap": 0,
+            "size": 0.70000005,
+            "color": "FFFF0000",
+            "xPos": 227,
+            "yPos": 19,
+            "width": 170.0,
+            "height": 77.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "One stormless dusk, the Archive fractured.\nNot from war, but from [b]willful divergence[/b].\n\nScrolls were redacted.\nSigils disbarred.\nEntire wings sealed behind self-immolating glyphlocks.\n\nFrom this sundering came the [b]Four Paths[/b] not factions, but lenses:\n[i]The Rationalists[/i] sought to decode the weave.\n[i]The Animists[/i] to bond with it.\n[i]The Invokers[/i] to wield.\n[i]The Vessels[/i] to become.\n\nEach path now walked alone yet none had stepped away from the edge.\n\n",
+            "wrap": 0,
+            "size": 0.5,
+            "color": "FF000000",
+            "xPos": 231,
+            "yPos": 134,
+            "width": 155.0,
+            "height": 43.0
+          }
+        }
+      ],
+      "pageName": "ne"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b][u]Year 1178 The Quiet Era[/u][/b]\n\nSilence fell not peace.\n\nAcross the fractured world, towers dimmed.\nAltars cooled.\nEven the storms withdrew, as if watching.\n\nThe arcane surge that had once saturated land, sea, and sky began to thin.\n\n[b]Mana wells ran dry.[/b]\n[i]Essentia[/i] lost flavor.\nRituals failed mid-chant.\nWards unraveled without cause.\n\nMany believed it was balance returning.\nOthers whispered darker truths:\nThat the world had not healed it was [i]holding its breath[/i].\n\nIn this stillness, settlements turned inward.\nScribes copied old glyphs with trembling hands.\nHealers lit candles to memory.\nAnd wanderers began seeking the [b]first runes[/b] relics older than any Archive, etched into stone before language.\n\nFor nearly two centuries, nothing truly changed.\n\n     But silence is never empty.",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF000000",
+            "xPos": 31,
+            "yPos": 14,
+            "width": 172.0,
+            "height": 165.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b][u]Year 1402 The Age of Incursion Begins[/u][/b]\n\nNo comet heralded it.\nNo prophecy foretold it.\nOnly the stars began to tremble.\n\nLeylines warped beneath once-settled ground.\nBlood runes, long inert, pulsed without touch.\nAnd deep beneath the basalt cliffs of the Western Reach, [i]something[/i] began to sing.\n\nThe world silence shattered.\n\n[b]Mana storms returned,[/b] but now with memory striking only where old spells had once lived.\n[i]Spiritual realms[/i] thinned their veil, letting echoes through: dreams that werent your own.\nGraves churned. Forgotten tomes wrote themselves anew.\n\nThose who remembered the past began preparing.\nThose born after it had no choice but to awaken.\n\nBecause the final tab in the Thaumonomicon no longer flickered.\nIt opened.\n\n[b]The Incursion is not coming.[/b]\nIt has already begun.",
+            "wrap": 0,
+            "size": 0.5999999,
+            "color": "FFFF0000",
+            "xPos": 226,
+            "yPos": 19,
+            "width": 177.0,
+            "height": 172.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b][u]Year 1402 ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬ï¿½ The Severance[/u][/b]\nThe [b]Seal of Crownlight[/b] shattered at dusk.\nA thrum echoed across Virelya ley lines a pulse that woke things long thought buried.\n\nIn an instant, the great stabilizing anchors obelisks, wards, pacts, soulforges [i]failed[/i].\nThe sky fractured in veins of mana.\nThe seas surged upward, as if trying to drown the stars.\nFloating sanctums crashed into the forests below.\nForbidden realms bled into the waking world.\n\nThis was not war.\nThis was [b]unbinding[/b].\n\nNow, every island, coast, and cursed shrine is a relic of what came before unclaimed, unstable, and dripping with arcane residue.\n\n[b]In the wake of the Severance:[/b]\nAncient orders fell silent.\nOld powers vanished or scattered.\nUnbound magics surged\nuntamed, hungry, free.",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FFFF0000",
+            "xPos": 23,
+            "yPos": 20,
+            "width": 180.0,
+            "height": 201.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "[b][u]The Age of Strangers[/u][/b]\n",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF8A2BE2",
+            "xPos": 245,
+            "yPos": 15,
+            "width": 164.0,
+            "height": 21.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "No kings. No councils. No gods in sight.\n\nOnly mercenaries, outlanders, and those brave enough to trace the old lines.\nSome come seeking ley-gold.\nSome come to rebuild.\nSome come [i]to burn left[/i].\n\nThis is where you awaken.\nThis is the Virelyan Sea as it stands now  a [b]fractured world on the edge of rebirth or ruin[/b].\n\nChoose your path. Bind your name.\nAnd [i]step into the Severed Age[/i].",
+            "wrap": 0,
+            "size": 0.6999999,
+            "color": "FF00008B",
+            "xPos": 241,
+            "yPos": 25,
+            "width": 150.0,
+            "height": 102.0
+          }
+        },
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "VirelyanSeas/stranger.png",
+            "xPos": 255,
+            "yPos": 125,
+            "width": 103.0,
+            "height": 91.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [],
+      "pageName": ""
+    },
+    {
+      "features": [],
+      "pageName": ""
+    },
+    {
+      "features": [],
+      "pageName": ""
+    },
+    {
+      "features": [],
+      "pageName": ""
+    },
+    {
+      "features": [],
+      "pageName": ""
+    },
+    {
+      "features": [],
+      "pageName": ""
+    },
+    {
+      "features": [],
+      "pageName": ""
+    },
+    {
+      "features": [],
+      "pageName": ""
+    },
+    {
+      "features": [],
+      "pageName": ""
+    }
+  ],
+  "uniqueName": "VirelyanSeas",
+  "color": 16777215,
+  "showBackground": true,
+  "showArrows": true,
+  "showNumber": true,
+  "iconPass1": "",
+  "iconPass2": "",
+  "iconColorisePass1": false,
+  "iconColorisePass2": false,
+  "iconColorPass1": 0,
+  "iconColorPass2": 0,
+  "language": "en_US",
+  "displayName": "VirelyanSeas",
+  "displayInCreative": true
+}

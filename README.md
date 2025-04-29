@@ -11,6 +11,8 @@
 Siege enemy bases, wield legendary weapons from Tinkers' Construct, and summon devastating forces with Witchery. With customized world generation, economy systems, and naval battles, every expedition is a test of survival, diplomacy, and domination.</p> 
 <p><strong>Will your faction rise as rulers of the arcane seas, or be lost to the depths of history?</strong></p>
 
+### Server status & wiki (WIP): https://fotfswikimon.pages.dev/
+
 # Build:
 
 This modpack uses https://github.com/juraj-hrivnak/Pakku as package/mod managing tool

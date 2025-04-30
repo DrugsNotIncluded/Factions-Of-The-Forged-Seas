@@ -492,35 +492,28 @@
             ]
         },
         {
-            "pakku_id": "EC5rtnaQj1n2ufsC",
+            "pakku_id": "GGSJsemkBKQdixmA",
             "type": "MOD",
             "slug": {
-                "curseforge": "applemilktea2"
+                "github": "Excsi4ka/AppleMilk-and-Tea-Patch"
             },
             "name": {
-                "curseforge": "AppleMilkTea2"
+                "github": "AppleMilk-and-Tea-Patch"
             },
             "id": {
-                "curseforge": "229325"
+                "github": "975723598"
             },
+            "redistributable": false,
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "AppleMilkTea2-1.7.10_2.9n.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
+                    "type": "github",
+                    "file_name": "PATCHED.AppleMilkTea-2.9n.jar",
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/2341/197/AppleMilkTea2-1.7.10_2.9n.jar",
-                    "id": "2341197",
-                    "parent_id": "229325",
-                    "hashes": {
-                        "sha1": "0d82f7220901d9791d2a3a33b82a37f8b549a046",
-                        "md5": "f5f64ad6fe1a995316838fd095c51304"
-                    },
-                    "required_dependencies": [],
-                    "size": 2932094,
-                    "date_published": "2016-11-02T12:55:49.767Z"
+                    "url": "https://github.com/Excsi4ka/AppleMilk-and-Tea-Patch/releases/download/AmtPatch/PATCHED.AppleMilkTea-2.9n.jar",
+                    "id": "250823217",
+                    "parent_id": "975723598",
+                    "size": 2886522,
+                    "date_published": "2025-04-30T19:51:54Z"
                 }
             ]
         },

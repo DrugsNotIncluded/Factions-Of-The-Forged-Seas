@@ -284,20 +284,8 @@
       "Max Group Count": 1
     },
     {
-      "Entity Class": "net.lomeli.ec.entity.EntityEnderCreeper",
-      "Weight": 4,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "com.NovaCraft.entity.EntitySculkDweller",
-      "Weight": 20,
-      "Min Group Count": 2,
-      "Max Group Count": 20
-    },
-    {
-      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntityLostMiner",
-      "Weight": 2,
+      "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityFestiveCreeper",
+      "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 2
     }

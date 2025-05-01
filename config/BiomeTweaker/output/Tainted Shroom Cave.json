@@ -1,13 +1,13 @@
 
 {
-  "ID": 119,
-  "Name": "Undergarden",
-  "Class": "biomesoplenty.common.biome.nether.BiomeGenUndergarden",
-  "Color": 15657658,
+  "ID": 171,
+  "Name": "Tainted Shroom Cave",
+  "Class": "DelirusCrux.Netherlicious.Biomes.TaintedShroomCave",
+  "Color": 16421912,
   "Root Height": 0.1,
   "Height Variation": 0.2,
-  "Top Block": "BiomesOPlenty:overgrownNetherrack",
-  "Filler Block": "minecraft:netherrack",
+  "Top Block": "Natura:soil.tainted",
+  "Filler Block": "Natura:soil.tainted",
   "Grass Color": "Not set. Check in-game.",
   "Foliage Color": "Not set. Check in-game.",
   "Water Color": "16777215",
@@ -17,47 +17,15 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "JUNGLE",
-    "SPOOKY",
     "NETHER"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
     {
-      "Entity Class": "net.lomeli.ec.entity.EntityFriendlyCreeper",
-      "Weight": 1,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
       "Entity Class": "com.NovaCraft.entity.EntityPhoenix",
       "Weight": 10,
       "Min Group Count": 4,
       "Max Group Count": 10
-    },
-    {
-      "Entity Class": "pavocado.zoocraftdiscoveries.entity.EntityGecko",
-      "Weight": 3,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.zoocraftdiscoveries.entity.EntityFrog",
-      "Weight": 15,
-      "Min Group Count": 4,
-      "Max Group Count": 8
-    },
-    {
-      "Entity Class": "com.robrit.moofluids.common.entity.EntityFluidCow",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.robrit.moofluids.common.entity.EntityFluidCow",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     },
     {
       "Entity Class": "com.robrit.moofluids.common.entity.EntityFluidCow",
@@ -72,42 +40,6 @@
       "Max Group Count": 12
     },
     {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPeafowl",
-      "Weight": 5,
-      "Min Group Count": 2,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityToucan",
-      "Weight": 7,
-      "Min Group Count": 3,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityGouldianfinch",
-      "Weight": 8,
-      "Min Group Count": 3,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityParrot",
-      "Weight": 7,
-      "Min Group Count": 3,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityKiwi",
-      "Weight": 4,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityOwl",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
       "Entity Class": "DelirusCrux.Netherlicious.Common.Entities.Passive.EntityStrider",
       "Weight": 10,
       "Min Group Count": 4,
@@ -118,12 +50,6 @@
       "Weight": 7,
       "Min Group Count": 8,
       "Max Group Count": 8
-    },
-    {
-      "Entity Class": "net.daveyx0.primitivemobs.entity.passive.EntityChameleon",
-      "Weight": 5,
-      "Min Group Count": 1,
-      "Max Group Count": 3
     },
     {
       "Entity Class": "com.ilya3point999k.thaumicconcilium.common.entities.mobs.Thaumaturge",
@@ -152,12 +78,6 @@
       "Max Group Count": 10
     },
     {
-      "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
-      "Weight": 3,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
       "Entity Class": "am2.entities.EntityHecate",
       "Weight": 4,
       "Min Group Count": 1,
@@ -176,136 +96,10 @@
       "Max Group Count": 1
     },
     {
-      "Entity Class": "tconstruct.world.entity.BlueSlime",
-      "Weight": 1,
-      "Min Group Count": 4,
-      "Max Group Count": 20
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityFireCreeper",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityWaterCreeper",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityElectricCreeper",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityCookieCreeper",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityDarkCreeper",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityLightCreeper",
-      "Weight": 4,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityEarthCreeper",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
       "Entity Class": "net.lomeli.ec.entity.EntityMagmaCreeper",
       "Weight": 6,
       "Min Group Count": 1,
       "Max Group Count": 2
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityReverseCreeper",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityIceCreeper",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityPsyhicCreeper",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityIllusionCreeper",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntitySpiderCreeper",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityWindCreeper",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityHydrogenCreeper",
-      "Weight": 1,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityEnderCreeper",
-      "Weight": 4,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityStoneCreeper",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntitySolarCreeper",
-      "Weight": 4,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityBirthdayCreeper",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityFireworkCreeper",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "net.lomeli.ec.entity.EntityBigBadCreep",
-      "Weight": 1,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     },
     {
       "Entity Class": "com.NovaCraft.entity.EntitySlaughter",
@@ -392,12 +186,6 @@
       "Max Group Count": 4
     },
     {
-      "Entity Class": "net.lomeli.ec.entity.addon.EntityRFCreeper",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
       "Entity Class": "DelirusCrux.Netherlicious.Common.Entities.Monster.EntityZoglin",
       "Weight": 20,
       "Min Group Count": 2,
@@ -417,7 +205,7 @@
     },
     {
       "Entity Class": "net.daveyx0.primitivemobs.entity.monster.EntityBlazingJuggernaut",
-      "Weight": 1,
+      "Weight": 2,
       "Min Group Count": 1,
       "Max Group Count": 2
     },
@@ -465,14 +253,7 @@
     }
   ],
   "Spawnable Water Creatures": [],
-  "Spawnable Cave Creatures": [
-    {
-      "Entity Class": "DelirusCrux.Netherlicious.Common.Entities.Ambient.EntityEmber",
-      "Weight": 10,
-      "Min Group Count": 2,
-      "Max Group Count": 2
-    }
-  ],
+  "Spawnable Cave Creatures": [],
   "Spawn Biome": false,
   "Tweaked": false
 }

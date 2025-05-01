@@ -223,6 +223,42 @@
             ]
         },
         {
+            "pakku_id": "kNPUaZQyu1eYZgFH",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "adventure-backpacks-patched"
+            },
+            "name": {
+                "curseforge": "Adventure Backpacks Patched"
+            },
+            "id": {
+                "curseforge": "1014232"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "adventurebackpack-1.7.10-0.8e-ns.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5325/290/adventurebackpack-1.7.10-0.8e-ns.jar",
+                    "id": "5325290",
+                    "parent_id": "1014232",
+                    "hashes": {
+                        "sha1": "12a8799b5ca0a976d09ba9d4d9e6cf6ccb6607a3",
+                        "md5": "955b9a636260cdcd0036a3b8af4bed55"
+                    },
+                    "required_dependencies": [],
+                    "size": 3357573,
+                    "date_published": "2024-05-08T01:00:00.033Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "qgBYp0OeLkLyqW00",
             "type": "MOD",
             "side": "BOTH",
@@ -263,7 +299,7 @@
             "pakku_id": "jJVBttVuat3QsN1x",
             "pakku_links": [
                 "GZBYHzw2BJUNyEKa",
-                "0HUspffLFlEC1K1H"
+                "OazD9RrYFSweLDZQ"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -503,7 +539,6 @@
             "id": {
                 "github": "975723598"
             },
-            "redistributable": false,
             "files": [
                 {
                     "type": "github",
@@ -893,6 +928,31 @@
                     "required_dependencies": [],
                     "size": 6567165,
                     "date_published": "2016-03-04T16:36:02.550Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "X2LIlWX0kEX6nqym",
+            "type": "MOD",
+            "slug": {
+                "github": "GTNewHorizons/Backhand"
+            },
+            "name": {
+                "github": "Backhand"
+            },
+            "id": {
+                "github": "821008738"
+            },
+            "files": [
+                {
+                    "type": "github",
+                    "file_name": "backhand-1.6.14.jar",
+                    "release_type": "release",
+                    "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.6.14/backhand-1.6.14.jar",
+                    "id": "244791254",
+                    "parent_id": "821008738",
+                    "size": 118383,
+                    "date_published": "2025-04-09T05:15:45Z"
                 }
             ]
         },
@@ -1900,7 +1960,7 @@
             ]
         },
         {
-            "pakku_id": "1tkFAQSSGPRP1ayO",
+            "pakku_id": "jq8L4r8n4lHNBe01",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -1918,21 +1978,21 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "coroutil-1.7.10-1.1.6.jar",
+                    "file_name": "coroutil-1.1.3 for MC v1.7.10.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/2388/794/coroutil-1.7.10-1.1.6.jar",
-                    "id": "2388794",
+                    "url": "https://edge.forgecdn.net/files/2265/741/coroutil-1.1.3 for MC v1.7.10.jar",
+                    "id": "2265741",
                     "parent_id": "237749",
                     "hashes": {
-                        "sha1": "8f1de498a4bf1b3650bef394209be17648dc1909",
-                        "md5": "be0326389f5ba1c79a570e9838e7437c"
+                        "sha1": "26b160dca473ad1fdbad3ae415d5410b3120415c",
+                        "md5": "8268bb28cb7c05eccc4355ec13f70860"
                     },
                     "required_dependencies": [],
-                    "size": 1297035,
-                    "date_published": "2017-03-04T20:02:02.063Z"
+                    "size": 1246290,
+                    "date_published": "2015-11-07T22:28:10.447Z"
                 }
             ]
         },
@@ -2208,7 +2268,10 @@
             ]
         },
         {
-            "pakku_id": "dKd2PdR79qnB2KVe",
+            "pakku_id": "iDMIt1oyAQ2KlSU5",
+            "pakku_links": [
+                "9FiuvaVDd2OtX3nh"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -2225,29 +2288,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "deathlyhallows-1.1.3.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6067/142/deathlyhallows-1.1.3.jar",
-                    "id": "6067142",
-                    "parent_id": "880635",
-                    "hashes": {
-                        "sha1": "6cdd90a94380fdb432d4a09731b61be6f4284d6d",
-                        "md5": "5f0bae2aa5c7dc057df4ad41d3b49bf7"
-                    },
-                    "required_dependencies": [],
-                    "size": 3402944,
-                    "date_published": "2025-01-08T22:59:28.680Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "deathlyhallows-1.1.2.jar",
+                    "file_name": "deathlyhallows-1.1.4.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -2255,16 +2297,40 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/6xIfBqzY/versions/jUQVYyF3/deathlyhallows-1.1.2.jar",
-                    "id": "jUQVYyF3",
+                    "url": "https://cdn.modrinth.com/data/6xIfBqzY/versions/sAKUorqz/deathlyhallows-1.1.4.jar",
+                    "id": "sAKUorqz",
                     "parent_id": "6xIfBqzY",
                     "hashes": {
-                        "sha512": "3ceb79438ebea190697894ca38bd7455a767ba7226838fe8a4a0ecfa75cbb238eea631f26c365fe5ed3debffc9043220cf5e323075e9c919c6f6bdd5efc39645",
-                        "sha1": "3a234f461c3b87dfb46b5af3b7528d7c29f2f0bd"
+                        "sha512": "c45ad302c48c029b49a7e488f0100dc8b101ffd53b082f1a88cf71072ef4eeb80c1559a85a2a2d807b3b0412daffa7739632249ea441c46f8a0ddf6013798cce",
+                        "sha1": "6dfa3b28710b9f3ec617ba39c3043ad365304eab"
                     },
                     "required_dependencies": [],
-                    "size": 3402930,
-                    "date_published": "2025-01-05T21:54:00.655569Z"
+                    "size": 3404183,
+                    "date_published": "2025-04-30T12:51:26.749761Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "deathlyhallows-1.1.4.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6480/163/deathlyhallows-1.1.4.jar",
+                    "id": "6480163",
+                    "parent_id": "880635",
+                    "hashes": {
+                        "sha1": "6dfa3b28710b9f3ec617ba39c3043ad365304eab",
+                        "md5": "9bbd183f18636d8a94f9327d02669eb2"
+                    },
+                    "required_dependencies": [
+                        "69673",
+                        "227083"
+                    ],
+                    "size": 3404183,
+                    "date_published": "2025-04-30T12:50:22.863Z"
                 }
             ]
         },
@@ -2743,39 +2809,6 @@
             ]
         },
         {
-            "pakku_id": "nV8xsVCHfbMA4sw0",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "exotic-birds"
-            },
-            "name": {
-                "curseforge": "Exotic Birds"
-            },
-            "id": {
-                "curseforge": "242830"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "Exotic Birds 1.7.10-1.4.6.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/2526/488/Exotic Birds 1.7.10-1.4.6.jar",
-                    "id": "2526488",
-                    "parent_id": "242830",
-                    "hashes": {
-                        "sha1": "4be8adacfbec66c4c628f08981ccd947417ae9fd",
-                        "md5": "7dba75ec8d9ee432cf7e31ba2d6b77b4"
-                    },
-                    "required_dependencies": [],
-                    "size": 2182626,
-                    "date_published": "2018-01-31T20:22:37.107Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "vz1aVuO7LnItZNC7",
             "pakku_links": [
                 "a5aF4NQcwV1WoYAs"
@@ -3250,7 +3283,7 @@
             ]
         },
         {
-            "pakku_id": "0HUspffLFlEC1K1H",
+            "pakku_id": "OazD9RrYFSweLDZQ",
             "pakku_links": [
                 "GZBYHzw2BJUNyEKa"
             ],
@@ -3270,31 +3303,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "gtnhlib-0.6.21.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6467/628/gtnhlib-0.6.21.jar",
-                    "id": "6467628",
-                    "parent_id": "688894",
-                    "hashes": {
-                        "sha1": "6100ea76fe816278bba1879cb0f10859b2559adc",
-                        "md5": "547c89004ad1211accfcbace482cef32"
-                    },
-                    "required_dependencies": [
-                        "826970"
-                    ],
-                    "size": 24932392,
-                    "date_published": "2025-04-26T17:04:55.480Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "gtnhlib-0.6.21.jar",
+                    "file_name": "gtnhlib-0.6.19.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -3302,18 +3312,41 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/vTvnv7qp/versions/vvjGQx5N/gtnhlib-0.6.21.jar",
-                    "id": "vvjGQx5N",
+                    "url": "https://cdn.modrinth.com/data/vTvnv7qp/versions/o3JmXvHH/gtnhlib-0.6.19.jar",
+                    "id": "o3JmXvHH",
                     "parent_id": "vTvnv7qp",
                     "hashes": {
-                        "sha512": "aff58f715068e89c0cd3ab1e8208be9c6870c6e6192af32ad784f94f8e26621a5b023878f23435695e9dd086ee68ac2824a3956816c738fecd874bab401055d9",
-                        "sha1": "6100ea76fe816278bba1879cb0f10859b2559adc"
+                        "sha512": "4351c7962d5aee0a19c48145018ee2b2e43e51b5a096dd2342229aeca8f47b3bfb87938018dc2f1c00385102a7603fd68d80a0dd4a34c0709ccc03759b6862e7",
+                        "sha1": "db1c2a93f14d41018cc0d6264a9d5daa48083142"
                     },
                     "required_dependencies": [
                         "ghjoiQAl"
                     ],
-                    "size": 24932392,
-                    "date_published": "2025-04-26T17:04:52.195314Z"
+                    "size": 24928819,
+                    "date_published": "2025-04-09T16:52:40.905644Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "gtnhlib-0.6.19.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6403/628/gtnhlib-0.6.19.jar",
+                    "id": "6403628",
+                    "parent_id": "688894",
+                    "hashes": {
+                        "sha1": "db1c2a93f14d41018cc0d6264a9d5daa48083142",
+                        "md5": "3563c9d810739cb91580ad2e90e3260f"
+                    },
+                    "required_dependencies": [
+                        "826970"
+                    ],
+                    "size": 24928819,
+                    "date_published": "2025-04-09T16:52:44.583Z"
                 }
             ]
         },
@@ -4437,6 +4470,42 @@
             ]
         },
         {
+            "pakku_id": "0TW3weW5WViieTTk",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "master-chef-mod"
+            },
+            "name": {
+                "curseforge": "Master Chef Craft"
+            },
+            "id": {
+                "curseforge": "681357"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MasterChef-1.7.10.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4005/113/MasterChef-1.7.10.jar",
+                    "id": "4005113",
+                    "parent_id": "681357",
+                    "hashes": {
+                        "sha1": "dea1340052a7859656a3e077a67f465950ef0093",
+                        "md5": "50fe17210613b3db7d623ac78b17897d"
+                    },
+                    "required_dependencies": [],
+                    "size": 681207,
+                    "date_published": "2022-09-24T18:36:08.867Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "JaN47uTTKDPi9pTo",
             "type": "MOD",
             "side": "BOTH",
@@ -4643,6 +4712,44 @@
             ]
         },
         {
+            "pakku_id": "9ymKjd3xr2ap4Obo",
+            "pakku_links": [
+                "ht6CPL2l1YzyHpze"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "morechisels"
+            },
+            "name": {
+                "curseforge": "MoreChisels"
+            },
+            "id": {
+                "curseforge": "227904"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MoreChisels-1.7.10-1.0-28.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/2263/981/MoreChisels-1.7.10-1.0-28.jar",
+                    "id": "2263981",
+                    "parent_id": "227904",
+                    "hashes": {
+                        "sha1": "f59caac228bd9f41b7fd4b2e332221302222112b",
+                        "md5": "0726737af1b21212f1fec4a13202fc0c"
+                    },
+                    "required_dependencies": [
+                        "235279"
+                    ],
+                    "size": 69848,
+                    "date_published": "2015-10-25T17:11:05.180Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Vx0YRLgiHCa0LISt",
             "type": "MOD",
             "slug": {
@@ -4763,6 +4870,44 @@
                     "required_dependencies": [],
                     "size": 1088992,
                     "date_published": "2015-07-31T18:39:29.577Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "yQwYkBEfUl1NGpv4",
+            "pakku_links": [
+                "7XstjKPtLnjgVKR5"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "natura"
+            },
+            "name": {
+                "curseforge": "Natura"
+            },
+            "id": {
+                "curseforge": "74120"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "natura-1.7.10-2.2.1a2.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/2257/670/natura-1.7.10-2.2.1a2.jar",
+                    "id": "2257670",
+                    "parent_id": "74120",
+                    "hashes": {
+                        "sha1": "95ca39e8ffb89e84192a7d9a2f649e2896a9b561",
+                        "md5": "482d41a7e4bab7f6fbd5c31dc9dcb372"
+                    },
+                    "required_dependencies": [
+                        "74924"
+                    ],
+                    "size": 901112,
+                    "date_published": "2015-09-19T22:43:57.233Z"
                 }
             ]
         },
@@ -5030,7 +5175,7 @@
             ]
         },
         {
-            "pakku_id": "LqGTDJCtOjpfthZc",
+            "pakku_id": "iiMjAsa9rIosc6EC",
             "type": "MOD",
             "slug": {
                 "curseforge": "notenoughitems-gtnh"
@@ -5043,8 +5188,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "NotEnoughItems-2.7.41-GTNH-pre.jar",
+                    "type": "modrinth",
+                    "file_name": "NotEnoughItems-2.7.36-GTNH-pre.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -5052,18 +5197,76 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/6474/343/NotEnoughItems-2.7.41-GTNH-pre.jar",
-                    "id": "6474343",
+                    "url": "https://cdn.modrinth.com/data/iNPc3Onu/versions/54sOfANS/NotEnoughItems-2.7.36-GTNH-pre.jar",
+                    "id": "54sOfANS",
+                    "parent_id": "iNPc3Onu",
+                    "hashes": {
+                        "sha512": "f880022a6be149d16258e22240388387bb67526a2c7503f4d5bf7f590732a521bbc552a324897da42bdbbbf441be08e5a57cdb804abaddea89c401c7fa0a76ba",
+                        "sha1": "503e6f9dcf7e291f9e99d7ad71b04624fa5c625c"
+                    },
+                    "required_dependencies": [
+                        "qMOdaUOs"
+                    ],
+                    "size": 1061054,
+                    "date_published": "2025-03-28T10:45:45.653174Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "NotEnoughItems-2.7.36-GTNH-pre.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6358/870/NotEnoughItems-2.7.36-GTNH-pre.jar",
+                    "id": "6358870",
                     "parent_id": "358228",
                     "hashes": {
-                        "sha1": "e5531ca4d0649c2893b4386b104ded4b057e70fa",
-                        "md5": "2961622d92d5c3bc41181e0f9f845725"
+                        "sha1": "503e6f9dcf7e291f9e99d7ad71b04624fa5c625c",
+                        "md5": "53404e8eb46e7c55a5b0f48b599700f5"
                     },
                     "required_dependencies": [
                         "746279"
                     ],
-                    "size": 1063147,
-                    "date_published": "2025-04-28T18:17:16.083Z"
+                    "size": 1061054,
+                    "date_published": "2025-03-28T10:45:49.183Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "wzT6Rs48MWZzFHVr",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "notenoughresources"
+            },
+            "name": {
+                "curseforge": "NotEnoughResources"
+            },
+            "id": {
+                "curseforge": "225815"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "NotEnoughResources-1.7.10-0.1.0-128.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/2323/485/NotEnoughResources-1.7.10-0.1.0-128.jar",
+                    "id": "2323485",
+                    "parent_id": "225815",
+                    "hashes": {
+                        "sha1": "8da5097b7b13050f246ced9573eee23d5e069c2a",
+                        "md5": "9635aa86976c302ea3141a384eaaeb66"
+                    },
+                    "required_dependencies": [
+                        "222211"
+                    ],
+                    "size": 226574,
+                    "date_published": "2016-08-16T17:41:16.893Z"
                 }
             ]
         },
@@ -5345,6 +5548,39 @@
             ]
         },
         {
+            "pakku_id": "ogpP1PB1Sch0tqCc",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "particlelib"
+            },
+            "name": {
+                "curseforge": "ParticleLib"
+            },
+            "id": {
+                "curseforge": "233149"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ParticleLib - 1.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/2248/888/ParticleLib - 1.jar",
+                    "id": "2248888",
+                    "parent_id": "233149",
+                    "hashes": {
+                        "sha1": "72e269a1074f4e6338d4bf0f7d30d22eae16cc92",
+                        "md5": "8c664bc49e0d8f358dbf218b0ecbaff0"
+                    },
+                    "required_dependencies": [],
+                    "size": 10160,
+                    "date_published": "2015-07-25T14:02:27.043Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "VRPiT4YS3amVFitQ",
             "pakku_links": [
                 "a8zZiTpWzwuqlX0m"
@@ -5494,6 +5730,44 @@
             ]
         },
         {
+            "pakku_id": "Aho0DXaVqiSOqwlv",
+            "pakku_links": [
+                "Vt7JIpVJEC2z7TNs"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "practical-logistics"
+            },
+            "name": {
+                "curseforge": "Practical Logistics"
+            },
+            "id": {
+                "curseforge": "240562"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Practical-Logistics-1.7.10-0.2.4.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/2306/263/Practical-Logistics-1.7.10-0.2.4.jar",
+                    "id": "2306263",
+                    "parent_id": "240562",
+                    "hashes": {
+                        "sha1": "dd288fdf2b76b0f7c46e55035408157de296a779",
+                        "md5": "b543a1ff25be4b10c9101b9624c1d962"
+                    },
+                    "required_dependencies": [
+                        "239418"
+                    ],
+                    "size": 728277,
+                    "date_published": "2016-06-09T00:44:32.527Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "uTVJIyOP7XKQjZ2e",
             "type": "MOD",
             "slug": {
@@ -5527,44 +5801,27 @@
             ]
         },
         {
-            "pakku_id": "Zp30p8hKS7DUELgk",
-            "pakku_links": [
-                "XASdJKddT9rTJZHG"
-            ],
+            "pakku_id": "3sHbDeNX9d4cSZTi",
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "psychedelicraft",
-                "modrinth": "psychedelicraft"
+                "github": "DrugsNotIncluded/Psychedelicraft-Legacy"
             },
             "name": {
-                "curseforge": "Psychedelicraft",
-                "modrinth": "Psychedelicraft"
+                "github": "Psychedelicraft-Legacy"
             },
             "id": {
-                "curseforge": "224601",
-                "modrinth": "8u2zZjRq"
+                "github": "975138517"
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "Psychedelicraft-1.5.2.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
+                    "type": "github",
+                    "file_name": "Psychedelicraft-1.5.3.jar",
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/2240/299/Psychedelicraft-1.5.2.jar",
-                    "id": "2240299",
-                    "parent_id": "224601",
-                    "hashes": {
-                        "sha1": "9be6896ead3c4d08b51afbe4624dfe3d1c1beff3",
-                        "md5": "0162279e0471823263884cf0c605bb62"
-                    },
-                    "required_dependencies": [
-                        "224535"
-                    ],
-                    "size": 5507088,
-                    "date_published": "2015-05-28T22:14:51.977Z"
+                    "url": "https://github.com/DrugsNotIncluded/Psychedelicraft-Legacy/releases/download/release/Psychedelicraft-1.5.3.jar",
+                    "id": "250535943",
+                    "parent_id": "975138517",
+                    "size": 5518169,
+                    "date_published": "2025-04-29T21:45:25Z"
                 }
             ]
         },
@@ -5706,7 +5963,7 @@
             ]
         },
         {
-            "pakku_id": "75tML54wyFZAgth2",
+            "pakku_id": "5RX3pQFpeWOJFkze",
             "type": "MOD",
             "slug": {
                 "github": "GTNewHorizons/Roguelike-Dungeons"
@@ -5720,13 +5977,38 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "roguelike-1.6.2-GTNH.jar",
+                    "file_name": "roguelike-1.6.0-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/Roguelike-Dungeons/releases/download/1.6.2-GTNH/roguelike-1.6.2-GTNH.jar",
-                    "id": "248090675",
+                    "url": "https://github.com/GTNewHorizons/Roguelike-Dungeons/releases/download/1.6.0-GTNH/roguelike-1.6.0-GTNH.jar",
+                    "id": "144692309",
                     "parent_id": "254441984",
-                    "size": 587220,
-                    "date_published": "2025-04-21T04:50:51Z"
+                    "size": 586339,
+                    "date_published": "2024-01-09T22:48:00Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Cp8Jphx94naPG623",
+            "type": "MOD",
+            "slug": {
+                "github": "GTNewHorizons/Salis-Arcana"
+            },
+            "name": {
+                "github": "Salis-Arcana"
+            },
+            "id": {
+                "github": "932689390"
+            },
+            "files": [
+                {
+                    "type": "github",
+                    "file_name": "salisarcana-1.1.14-GTNH.jar",
+                    "release_type": "release",
+                    "url": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.14-GTNH/salisarcana-1.1.14-GTNH.jar",
+                    "id": "249425204",
+                    "parent_id": "932689390",
+                    "size": 442266,
+                    "date_published": "2025-04-25T11:31:16Z"
                 }
             ]
         },
@@ -5987,6 +6269,39 @@
             ]
         },
         {
+            "pakku_id": "Vt7JIpVJEC2z7TNs",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "sonar-core"
+            },
+            "name": {
+                "curseforge": "Sonar Core"
+            },
+            "id": {
+                "curseforge": "239418"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "SonarCore-1.7.10-1.1.3.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/2306/173/SonarCore-1.7.10-1.1.3.jar",
+                    "id": "2306173",
+                    "parent_id": "239418",
+                    "hashes": {
+                        "sha1": "2cc15fcecd5ee48e0ac6bb7115a14fe3c5e59fd1",
+                        "md5": "d102d42ec47bb9909458b2abfde331f2"
+                    },
+                    "required_dependencies": [],
+                    "size": 321931,
+                    "date_published": "2016-06-08T18:46:57.920Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "6GJCTq8rEkUQQOGS",
             "type": "MOD",
             "side": "SERVER",
@@ -6233,6 +6548,72 @@
                     "required_dependencies": [],
                     "size": 68794,
                     "date_published": "2015-06-08T08:20:28.367Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "GN9Qqnq6fbN5gdSl",
+            "pakku_links": [
+                "ogpP1PB1Sch0tqCc",
+                "PldCoGJgyBCzHTIx"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "thaumic-additions",
+                "modrinth": "thaumic-additions"
+            },
+            "name": {
+                "curseforge": "Thaumic Additions: Reconstructed",
+                "modrinth": "Thaumic Additions: Reconstructed"
+            },
+            "id": {
+                "curseforge": "232564",
+                "modrinth": "Fi4BbtaL"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "[1.7.10] Thaumic Additions - 0.41.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/2417/787/[1.7.10] Thaumic Additions - 0.41.jar",
+                    "id": "2417787",
+                    "parent_id": "232564",
+                    "hashes": {
+                        "sha1": "ac3dab4c28aea4a4acbbc1bf345707baf8dc6809",
+                        "md5": "65d05d1ba779258ca2e011c672ef3e85"
+                    },
+                    "required_dependencies": [
+                        "227083",
+                        "233149",
+                        "223628"
+                    ],
+                    "size": 5185308,
+                    "date_published": "2017-05-09T11:35:05.107Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ThaumicAdditions-1.7.10-0.41.jar",
+                    "mc_versions": [
+                        "1.7.10"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Fi4BbtaL/versions/5GgxPvKw/ThaumicAdditions-1.7.10-0.41.jar",
+                    "id": "5GgxPvKw",
+                    "parent_id": "Fi4BbtaL",
+                    "hashes": {
+                        "sha512": "5522c414a9ed84f70bb135fa3309c48e7666fab014518e3f57305cc950c04920532ec65c9b01470811dbd0854051275768edf7867eaae162342e666651862d66",
+                        "sha1": "ac3dab4c28aea4a4acbbc1bf345707baf8dc6809"
+                    },
+                    "required_dependencies": [],
+                    "size": 5185308,
+                    "date_published": "2023-05-17T02:29:01.157279Z"
                 }
             ]
         },
@@ -6588,37 +6969,27 @@
             ]
         },
         {
-            "pakku_id": "Oc5N5xAXOyoIuVjF",
+            "pakku_id": "OsIVThMXtFbnxqsB",
             "type": "MOD",
             "slug": {
-                "curseforge": "tic-tooltips"
+                "github": "GTNewHorizons/TiC-Tooltips"
             },
             "name": {
-                "curseforge": "TiC Tooltips"
+                "github": "TiC-Tooltips"
             },
             "id": {
-                "curseforge": "76845"
+                "github": "343410264"
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "TiCTooltips-mc1.7.10-1.2.5.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
+                    "type": "github",
+                    "file_name": "TiCTooltips-1.3.1.jar",
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/2246/472/TiCTooltips-mc1.7.10-1.2.5.jar",
-                    "id": "2246472",
-                    "parent_id": "76845",
-                    "hashes": {
-                        "sha1": "5a3b97262bd10cf639974251bfda1a35f4b61127",
-                        "md5": "d8178b20a554d3a0f3d0f374769acd02"
-                    },
-                    "required_dependencies": [
-                        "74072"
-                    ],
-                    "size": 52002,
-                    "date_published": "2015-07-11T04:29:29.543Z"
+                    "url": "https://github.com/GTNewHorizons/TiC-Tooltips/releases/download/1.3.1/TiCTooltips-1.3.1.jar",
+                    "id": "145326674",
+                    "parent_id": "343410264",
+                    "size": 54980,
+                    "date_published": "2024-01-12T22:33:14Z"
                 }
             ]
         },
@@ -6943,98 +7314,52 @@
             ]
         },
         {
-            "pakku_id": "BAkIOkQjHNqWhXV6",
-            "pakku_links": [
-                "HUyUDkUzW7iZGNbW"
-            ],
+            "pakku_id": "f7ac2Y52eQdKvEOu",
             "type": "MOD",
             "slug": {
-                "curseforge": "waila-harvestability"
+                "github": "GTNewHorizons/WAWLA"
             },
             "name": {
-                "curseforge": "Waila Harvestability"
+                "github": "WAWLA"
             },
             "id": {
-                "curseforge": "79287"
+                "github": "357316504"
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "WailaHarvestability-mc1.7.10-1.1.6.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
+                    "type": "github",
+                    "file_name": "Wawla-1.3.0-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/2270/923/WailaHarvestability-mc1.7.10-1.1.6.jar",
-                    "id": "2270923",
-                    "parent_id": "79287",
-                    "hashes": {
-                        "sha1": "3dee679f808fc8cc564c94a674a18ed3d497afdf",
-                        "md5": "e9d81089ddec3da20f0bb144e7beb4da"
-                    },
-                    "required_dependencies": [
-                        "73488"
-                    ],
-                    "size": 28800,
-                    "date_published": "2015-12-15T08:38:33.530Z"
+                    "url": "https://github.com/GTNewHorizons/WAWLA/releases/download/1.3.0-GTNH/Wawla-1.3.0-GTNH.jar",
+                    "id": "165856707",
+                    "parent_id": "357316504",
+                    "size": 83064,
+                    "date_published": "2024-05-03T20:57:19Z"
                 }
             ]
         },
         {
-            "pakku_id": "Mn0w8v6ZzUu7pHwU",
+            "pakku_id": "oVRiuGALfCYXmDXM",
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "wawla",
-                "modrinth": "wawla"
+                "github": "GTNewHorizons/WailaHarvestability"
             },
             "name": {
-                "curseforge": "Wawla - What Are We Looking At",
-                "modrinth": "Wawla - What Are We Looking At"
+                "github": "WailaHarvestability"
             },
             "id": {
-                "curseforge": "224712",
-                "modrinth": "wxWOoXgy"
+                "github": "167195071"
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "Wawla-1.0.5.120.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
+                    "type": "github",
+                    "file_name": "WailaHarvestability-1.3.2-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/2298/772/Wawla-1.0.5.120.jar",
-                    "id": "2298772",
-                    "parent_id": "224712",
-                    "hashes": {
-                        "sha1": "85fb074320b2cacb1dec790ab894f7d57a67b2ef",
-                        "md5": "dbdf14b087e645bece12d1cab750f397"
-                    },
-                    "required_dependencies": [],
-                    "size": 73037,
-                    "date_published": "2016-05-08T04:27:34.547Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "Wawla-1.0.5.120.jar",
-                    "mc_versions": [
-                        "1.7.10"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/wxWOoXgy/versions/eeGiL6NE/Wawla-1.0.5.120.jar",
-                    "id": "eeGiL6NE",
-                    "parent_id": "wxWOoXgy",
-                    "hashes": {
-                        "sha512": "e1ec1ee349e2b898417873a2a50a9638cbee370e8f48cbbf8dd8f299aa13d97be3c88f4db7bec67f1ea60ba06bdfbda41cce78004355a55f77451037b9cf4ff2",
-                        "sha1": "85fb074320b2cacb1dec790ab894f7d57a67b2ef"
-                    },
-                    "required_dependencies": [],
-                    "size": 73037,
-                    "date_published": "2023-06-07T19:25:10.568190Z"
+                    "url": "https://github.com/GTNewHorizons/WailaHarvestability/releases/download/1.3.2-GTNH/WailaHarvestability-1.3.2-GTNH.jar",
+                    "id": "232654116",
+                    "parent_id": "167195071",
+                    "size": 30610,
+                    "date_published": "2025-02-26T05:11:55Z"
                 }
             ]
         },
@@ -7456,7 +7781,7 @@
             ]
         },
         {
-            "pakku_id": "iPIiiEpiEtvaINEA",
+            "pakku_id": "goqhkFrPM4ISiskf",
             "type": "MOD",
             "slug": {
                 "github": "GTNewHorizons/waila"
@@ -7470,13 +7795,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "Waila-1.8.4.jar",
+                    "file_name": "Waila-1.8.2.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/waila/releases/download/1.8.4/Waila-1.8.4.jar",
-                    "id": "239271384",
+                    "url": "https://github.com/GTNewHorizons/waila/releases/download/1.8.2/Waila-1.8.2.jar",
+                    "id": "206961290",
                     "parent_id": "248256103",
-                    "size": 535004,
-                    "date_published": "2025-03-20T14:43:47Z"
+                    "size": 534505,
+                    "date_published": "2024-11-16T14:42:01Z"
                 }
             ]
         }

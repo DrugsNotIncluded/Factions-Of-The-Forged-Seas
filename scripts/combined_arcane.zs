@@ -56,3 +56,65 @@ mods.thaumcraft.Infusion.addRecipe(
     <Thaumcraft:FocusPortableHole>,
     3
 );
+
+// Remove the original recipe
+mods.thaumcraft.Arcane.removeRecipe(<Thaumcraft:ItemResource:15>);
+
+// Add corrected Arcane Worktable recipe for Primal Charm
+mods.thaumcraft.Arcane.addShaped("ASPECTS", <Thaumcraft:ItemResource:15>,
+    "aer 25, terra 25, ignis 25, aqua 25, ordo 25, perditio 25",
+    [
+        [<Thaumcraft:ItemShard:5>, <Thaumcraft:ItemShard:1>, <Thaumcraft:ItemShard:4>],
+        [<Forestry:thermionicTubes:4>, <Thaumcraft:ItemShard:6>, <Forestry:thermionicTubes:4>],
+        [<Thaumcraft:ItemShard:2>, <Thaumcraft:ItemShard:0>, <Thaumcraft:ItemShard:3>]
+    ]
+);
+
+// Remove existing void metal ingot crucible recipe
+mods.thaumcraft.Crucible.removeRecipe(<Thaumcraft:ItemResource:16>);
+
+// Add custom crucible recipe for void metal
+// ResearchString, OutputStack, InputStack, AspectString
+mods.thaumcraft.Crucible.addRecipe("VOIDMETAL", <Thaumcraft:ItemResource:16>, <Thaumcraft:ItemResource:17>, "alienis 100");
+
+// Remove original Void Seed crucible recipe
+mods.thaumcraft.Crucible.removeRecipe(<Thaumcraft:ItemResource:17>);
+
+// Add new Void Seed crucible recipe
+// Format: ResearchKey, OutputStack, InputStack, AspectCost
+mods.thaumcraft.Crucible.addRecipe(
+    "VOIDMETAL", // You can change this research string if needed
+    <Thaumcraft:ItemResource:17>, // Output: Void Seed
+    <magicalcrops:magicalcrops_NetherSeeds>, // Catalyst: Nether Seeds
+    "alienis 64, tenebrae 64, vacuos 64"
+);
+
+// Remove original recipe for silk cluster
+mods.thaumcraft.Arcane.removeRecipe(<Thaumcraft:ItemResource:7>);
+
+// Add custom Arcane Workbench recipe for silk cluster
+mods.thaumcraft.Arcane.addShaped(
+    "ASPECTS", // Research key
+    <Thaumcraft:ItemResource:7>, // Output
+    "aer 5, terra 5, ignis 5, aqua 5, ordo 5, perditio 5", // Aspects
+    [
+        [<Forestry:craftingMaterial:2>, <minecraft:string>, <Forestry:craftingMaterial:2>],
+        [<minecraft:string>, <ore:blockCloth>, <minecraft:string>],
+        [<Forestry:craftingMaterial:2>, <minecraft:string>, <Forestry:craftingMaterial:2>]
+    ]
+);
+
+// Remove original Arcane Workbench recipe for Alchemical Construct
+mods.thaumcraft.Arcane.removeRecipe(<Thaumcraft:blockMetalDevice:9>);
+
+// Add custom Arcane Workbench recipe for Alchemical Construct
+mods.thaumcraft.Arcane.addShaped(
+    "ASPECTS", // Research key
+    <Thaumcraft:blockMetalDevice:9>,
+    "aer 5, terra 5, ignis 5, aqua 5, ordo 5, perditio 5",
+    [
+        [<Thaumcraft:blockTube:1>, <Thaumcraft:blockTube>, <Thaumcraft:blockTube:1>],
+        [<Thaumcraft:blockTube>, <AWWayofTime:blockWritingTable>, <Thaumcraft:blockTube>],
+        [<Thaumcraft:blockTube:1>, <Thaumcraft:blockTube>, <Thaumcraft:blockTube:1>]
+    ]
+);

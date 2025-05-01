@@ -87,3 +87,100 @@ mods.bloodmagic.Altar.addRecipe(<wizardry:wizard_leggings>, <wizardry:magic_silk
 // Wizard Boots
 mods.bloodmagic.Altar.addRecipe(<wizardry:wizard_boots>, <wizardry:magic_silk>, 3, 20000, 50, 40);
 
+// Remove original Water Inscription Tool recipe
+mods.bloodmagic.Altar.removeRecipe(<AWWayofTime:waterScribeTool>);
+
+// Add custom Blood Altar recipe for Water Inscription Tool
+mods.bloodmagic.Altar.addRecipe(
+    <AWWayofTime:waterScribeTool>, // Output
+    <OpenBlocks:tank>.withTag({tank: {FluidName: "water", Amount: 16000}}), // Input
+    3, // Tier
+    50000, // LP cost
+    200, // Consumption rate
+    50 // Drain rate
+);
+
+// Remove original Fire Inscription Tool recipe
+mods.bloodmagic.Altar.removeRecipe(<AWWayofTime:fireScribeTool>);
+
+// Add custom Blood Altar recipe for Fire Inscription Tool
+mods.bloodmagic.Altar.addRecipe(
+    <AWWayofTime:fireScribeTool>,
+    <Botania:rune:1>,
+    3, // Tier
+    50000, // LP cost
+    200, // Consumption rate
+    50 // Drain rate
+);
+
+// Remove original Earth Inscription Tool recipe
+mods.bloodmagic.Altar.removeRecipe(<AWWayofTime:earthScribeTool>);
+
+// Add custom Blood Altar recipe for Earth Inscription Tool
+mods.bloodmagic.Altar.addRecipe(
+    <AWWayofTime:earthScribeTool>,
+    <arsmagica2:essence:1>,
+    3, // Tier
+    50000, // LP cost
+    200, // Consumption rate
+    50 // Drain rate
+);
+
+// Remove original Air Inscription Tool recipe
+mods.bloodmagic.Altar.removeRecipe(<AWWayofTime:airScribeTool>);
+
+// Add custom Blood Altar recipe for Air Inscription Tool
+mods.bloodmagic.Altar.addRecipe(
+    <AWWayofTime:airScribeTool>,
+    <Botania:manaResource:15>,
+    3, // Tier
+    50000, // LP cost
+    200, // Consumption rate
+    50 // Drain rate
+);
+
+// Remove original Dusk Inscription Tool recipe
+mods.bloodmagic.Altar.removeRecipe(<AWWayofTime:duskScribeTool>);
+
+// Add custom Blood Altar recipe for Dusk Inscription Tool
+mods.bloodmagic.Altar.addRecipe(
+    <AWWayofTime:duskScribeTool>,
+    <ForbiddenMagic:TaintSapling>,
+    4, // Tier
+    100000, // LP cost
+    200, // Consumption rate
+    50 // Drain rate
+);
+
+// Remove original Dawn Inscription Tool recipe
+mods.bloodmagic.Altar.removeRecipe(<AWWayofTime:dawnScribeTool>);
+
+// Add custom Blood Altar recipe for Dawn Inscription Tool
+mods.bloodmagic.Altar.addRecipe(
+    <AWWayofTime:dawnScribeTool>,
+    <witchery:daylightcollector>,
+    4, // Tier
+    300000, // LP cost
+    200, // Consumption rate
+    50 // Drain rate
+);
+
+// Add custom Blood Altar recipe for Activated Division Sigil
+mods.bloodmagic.Altar.addRecipe(
+    <ExtraUtilities:divisionSigil>.withTag({damage: 256}),
+    <minecraft:enchanting_table>,
+    3, // Tier
+    30000, // LP cost
+    200, // Consumption rate
+    50 // Drain rate
+);
+
+// Add custom Blood Altar recipe for Healing Stone
+mods.bloodmagic.Altar.addRecipe(
+    <aether_legacy:healing_stone>,
+    <aether_legacy:ambrosium_shard>,
+    3, // Tier
+    1000, // LP cost
+    200, // Consumption rate
+    50 // Drain rate
+);
